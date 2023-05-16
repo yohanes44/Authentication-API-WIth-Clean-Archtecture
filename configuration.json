@@ -1,0 +1,6 @@
+{
+    "Database": {
+        "MongoUrl": "mongodb+srv://john:john@cluster0.gimol4l.mongodb.net/"
+    },
+    "PORT": 3003
+}
